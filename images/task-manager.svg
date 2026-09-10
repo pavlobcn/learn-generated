@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="360" viewBox="0 0 1160 360" role="img" aria-labelledby="title desc">
+  <title id="title">Основні розділи Диспетчера завдань</title>
+  <desc id="desc">Схема показує безпечний шлях від відкриття Диспетчера завдань до перегляду процесів, продуктивності та програм запуску.</desc>
+  <rect width="1160" height="360" fill="#f8fafc"/>
+  <text x="580" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#102a43">Диспетчер завдань · Ctrl + Shift + Esc</text>
+  <g font-family="Arial, sans-serif" fill="#102a43">
+    <rect x="36" y="82" width="260" height="190" rx="14" fill="#e8f1ff" stroke="#2563a9" stroke-width="3"/>
+    <text x="166" y="120" text-anchor="middle" font-size="22" font-weight="700">Процеси</text>
+    <text x="58" y="157" font-size="18">• відкриті програми</text>
+    <text x="58" y="187" font-size="18">• процесор і пам’ять</text>
+    <text x="58" y="217" font-size="18">• диск і мережа</text>
+    <text x="58" y="247" font-size="18">• завершення завислого</text>
+    <rect x="322" y="82" width="250" height="190" rx="14" fill="#eaf8ef" stroke="#27864b" stroke-width="3"/>
+    <text x="447" y="120" text-anchor="middle" font-size="22" font-weight="700">Продуктивність</text>
+    <text x="344" y="157" font-size="18">• загальне навантаження</text>
+    <text x="344" y="187" font-size="18">• пам’ять і диски</text>
+    <text x="344" y="217" font-size="18">• Wi‑Fi або Ethernet</text>
+    <text x="344" y="247" font-size="18">• час роботи</text>
+    <rect x="598" y="82" width="250" height="190" rx="14" fill="#fff7df" stroke="#b77700" stroke-width="3"/>
+    <text x="723" y="120" text-anchor="middle" font-size="22" font-weight="700">Програми запуску</text>
+    <text x="620" y="157" font-size="18">• старт разом із Windows</text>
+    <text x="620" y="187" font-size="18">• вплив на запуск</text>
+    <text x="620" y="217" font-size="18">• вимикати лише відоме</text>
+    <text x="620" y="247" font-size="18">• програма не видаляється</text>
+    <rect x="874" y="82" width="250" height="190" rx="14" fill="#ffecec" stroke="#b53b3b" stroke-width="3"/>
+    <text x="999" y="120" text-anchor="middle" font-size="22" font-weight="700">Обережно</text>
+    <text x="896" y="157" font-size="18">• збережіть документ</text>
+    <text x="896" y="187" font-size="18">• не чіпайте невідоме</text>
+    <text x="896" y="217" font-size="18">• не змінюйте служби</text>
+    <text x="896" y="247" font-size="18">• завершуйте лише зависле</text>
+    <text x="580" y="322" text-anchor="middle" font-size="19" font-weight="700">Спочатку Alt + F4 · «Завершити завдання» — лише якщо звичайне закриття не допомогло</text>
+  </g>
+</svg>
