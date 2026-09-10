@@ -14,6 +14,12 @@
 
 ## Зміст
 
+### Швидко знайти
+
+- [Диспетчер завдань](chapters/07-built-in-apps.md#диспетчер-завдань)
+- [Знімки екрана та запис відео](chapters/07-built-in-apps.md#знімок-екрана-та-запис-відео-в-ножицях)
+- [Налаштування двох моніторів](chapters/05-windows-desktops.md#кілька-моніторів)
+
 1. [Знайомство з Windows 11](chapters/01-introduction.md)
 2. [Робочий стіл, меню «Пуск» і панель завдань](chapters/02-desktop-start-taskbar.md)
 3. [Клавіатура як головний інструмент](chapters/03-keyboard-first.md)
